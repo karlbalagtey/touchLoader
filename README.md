@@ -30,7 +30,7 @@ new TouchLoader('.parent','.child');
 
 ## Authors
 
-* **Karl Mark Balagtey** - *Initial work* - [4ksoftware](https://karl.balagtey.com)
+* **Karl Mark Balagtey** - *Initial work* - [4ksoftware](https://4ksoftware.io)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
